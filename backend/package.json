@@ -1,0 +1,19 @@
+{
+  "name": "outernet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acebase-server": "^1.18.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "openai": "^3.3.0",
+    "socket.io": "^4.7.1"
+  }
+}
